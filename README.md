@@ -6,8 +6,8 @@ The goal is to find the minimum-weight subgraph that connects all terminal nodes
 
 The project explores different approaches to solving the problem, ranging from exact methods to metaheuristics:
 
-Brute Force (exact, feasible only for small graphs)
+-Brute Force 
 
-Local Search
+-Tabu Search
 
-Tabu Search
+To be continued 
