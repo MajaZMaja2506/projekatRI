@@ -12,4 +12,4 @@ The project explores different approaches to solving the problem, ranging from e
 
 - Simulated annealing
 
-To be continued 
+- Variable neighborhood search
